@@ -1,0 +1,2 @@
+Percent_Bst2PosYoung_001	7.51Young_002	4.64Young_003	4.73Old_001	31.1Old_002	23.3Old_003	21.3Old_004	17.1Old_005	34.5
+

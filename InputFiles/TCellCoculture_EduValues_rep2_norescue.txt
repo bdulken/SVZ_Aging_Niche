@@ -1,0 +1,1 @@
+Edu Positive	Bst2Meannsc_cytokines_only_001	0.855967078	612nsc_cytokines_only_002	1	1032nsc_cytokines_only_003	0.950892857	824nsc_cytokines_only_004	1.247191011	811nsc_tcells_stim_001	0.528806584	1942nsc_tcells_stim_002	0.538461538	4134nsc_tcells_stim_003	0.400446429	2827nsc_tcells_stim_004	0.635955056	4030

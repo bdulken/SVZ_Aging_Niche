@@ -1,0 +1,2 @@
+Bst2Pos
+Old_001	26.2Old_002	54.2Old_003	48.1Old_004	11Old_005	32.2Old_006	29.7Old_007	40.2Young_001	6.34Young_002	34.7Young_003	7.69

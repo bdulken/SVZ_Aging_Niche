@@ -1,0 +1,1 @@
+Edu_pos_Ki67_pos	Ki67_negOldBst2Neg_001	45.2	3.2OldBst2Neg_002	47.6	5.78OldBst2Neg_003	36.3	5.65OldBst2Neg_004	46.4	12.9OldBst2Neg_005	43.6	10.7OldBst2Neg_006	52.1	5.84OldBst2Pos_001	35.6	39OldBst2Pos_002	21.9	28.1OldBst2Pos_003	42	17.3OldBst2Pos_004	28.7	25.5OldBst2Pos_005	19	39.7OldBst2Pos_006	46.1	20.2
